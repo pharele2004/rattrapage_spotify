@@ -1,0 +1,146 @@
+[
+    {
+        "titre": "L'ICONIQUE",
+        "artiste": {
+            "id": 0,
+            "nom": "PSIKO",
+            "biographie": "",
+            "genre": "hip hop",
+            "albums": [],
+            "chansons": [],
+            "image": ""
+        },
+        "dateSortie": "2024-05-10",
+        "genre": "southern hip hop",
+        "chansons": [
+            {"id": 0, "titre": "AUTRE CHOSE", "duree": 0, "artiste": null},
+            {"id": 1, "titre": "DON PSIKO", "duree": 0, "artiste": null}
+        ],
+        "note": 10.0,
+        "avis": [],
+        "image": "psiko.png"
+    }
+,
+    {
+        "titre": "MEET THE 6IXERS",
+        "artiste": {
+            "id": 0,
+            "nom": "BigXthaPlug",
+            "biographie": "",
+            "genre": "",
+            "albums": [],
+            "chansons": [],
+            "image": ""
+        },
+        "dateSortie": "2024-05-10",
+        "genre": "southern hip hop",
+        "chansons": [
+            {"id": 0, "titre": "Meet The 6ixers", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Rap Niggas Pt. 2", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Steppa Music", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Hell Yea", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Dirty Dawg", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Baccstreet", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Havin Freestyle", "duree": 0, "artiste": null}
+        ],
+        "note": 0.0,
+        "avis": [],
+        "image": "image1.jpeg"
+    },
+    {
+        "titre": "L'ICONIQUE",
+        "artiste": {
+            "id": 0,
+            "nom": "PSIKO",
+            "biographie": "",
+            "genre": "hip hop",
+            "albums": [],
+            "chansons": [],
+            "image": ""
+        },
+        "dateSortie": "2024-05-10",
+        "genre": "southern hip hop",
+        "chansons": [
+            {"id": 0, "titre": "AUTRE CHOSE", "duree": 0, "artiste": null},
+            {"id": 1, "titre": "DON PSIKO", "duree": 0, "artiste": null}
+        ],
+        "note": 10.0,
+        "avis": [],
+        "image": "psiko.png"
+    }
+,
+    {
+        "titre": "MEET THE 6IXERS",
+        "artiste": {
+            "id": 0,
+            "nom": "BigXthaPlug",
+            "biographie": "",
+            "genre": "",
+            "albums": [],
+            "chansons": [],
+            "image": ""
+        },
+        "dateSortie": "2024-05-10",
+        "genre": "southern hip hop",
+        "chansons": [
+            {"id": 0, "titre": "Meet The 6ixers", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Rap Niggas Pt. 2", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Steppa Music", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Hell Yea", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Dirty Dawg", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Baccstreet", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Havin Freestyle", "duree": 0, "artiste": null}
+        ],
+        "note": 0.0,
+        "avis": [],
+        "image": "image1.jpeg"
+    },
+    {
+        "titre": "L'ICONIQUE",
+        "artiste": {
+            "id": 0,
+            "nom": "PSIKO",
+            "biographie": "",
+            "genre": "hip hop",
+            "albums": [],
+            "chansons": [],
+            "image": ""
+        },
+        "dateSortie": "2024-05-10",
+        "genre": "southern hip hop",
+        "chansons": [
+            {"id": 0, "titre": "AUTRE CHOSE", "duree": 0, "artiste": null},
+            {"id": 1, "titre": "DON PSIKO", "duree": 0, "artiste": null}
+        ],
+        "note": 10.0,
+        "avis": [],
+        "image": "psiko.png"
+    }
+,
+    {
+        "titre": "MEET THE 6IXERS",
+        "artiste": {
+            "id": 0,
+            "nom": "BigXthaPlug",
+            "biographie": "",
+            "genre": "",
+            "albums": [],
+            "chansons": [],
+            "image": ""
+        },
+        "dateSortie": "2024-05-10",
+        "genre": "southern hip hop",
+        "chansons": [
+            {"id": 0, "titre": "Meet The 6ixers", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Rap Niggas Pt. 2", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Steppa Music", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Hell Yea", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Dirty Dawg", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Baccstreet", "duree": 0, "artiste": null},
+            {"id": 0, "titre": "Havin Freestyle", "duree": 0, "artiste": null}
+        ],
+        "note": 0.0,
+        "avis": [],
+        "image": "image1.jpeg"
+    }
+]
